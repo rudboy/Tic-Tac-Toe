@@ -37,7 +37,7 @@ tic-tac-toe
 Clone this repository :
 
 ```bash
-git clone https://github.com/alexdisdier/tic-tac-toe.git
+git clone https://github.com/rudboy/Tic-Tac-Toe
 
 cd tic-tac-toe
 ```
