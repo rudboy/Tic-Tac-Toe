@@ -2,7 +2,7 @@
 
 This is a tic-tac-toe game built with React.
 
-![screenshot of the tic tac toe Web App](/screenshot.png?raw=true "screenshot of the the tic tac toe Web App")
+![screenshot of the tic tac toe Web App](./src/screenshot.png?raw=true "screenshot of the the tic tac toe Web App")
 
 ## Usage example
 
